@@ -1,0 +1,54 @@
+### Apache  sqoop - imports ###
+--to connect to mysql
+mysql --host=ip-172-31-45-216.ec2.internal --user=training --password=training
+
+CREATE TABLE STOCKS(
+id INT NOT NULL PRIMARY KEY AUTo_INCREMENT,
+symbol VARCHAR(64) NOT NULL,
+name VARCHAR(64) NOT NULL,
+trade_date DATE,
+close_price DECIMAL(10,2),
+volume INT,
+updated_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP);
+
+
+INSERT INTO stocks
+(symbol, name, trade_date, close_price, volume)
+VALUES
+('AAL', 'American Airlines', '2015-11-11' , 44.39, 4416900);
+
+
+INSERT INTO stocks
+(symbol, name, trade_date, close_price, volume)
+VALUES
+('AAPL', 'Apple', '2015-11-11' , 116.1, 45217900);
+
+INSERT INTO stocks
+(symbol, name, trade_date, close_price, volume)
+VALUES
+('AMGN', 'Amgen', '2015-11-11' , 156.0, 1923900);
+
+
+## IMPORT ##
+
+--Default number of maps - 4
+sqoop import --connect jdbc:mysql://ip-172-31-45-216.ec2.internal/training --table stocks
+
+hadoop fs -ls stocks
+hadoop fs -cat stocks/part-m-00001
+
+
+sqoop import --connect jdbc:mysql://ip-172-31-45-216.ec2.internal/training --table stocks -m 2 --target-dir /user/hirw/sqoop/stocks_nmaps1
+
+hadoop fs -ls sqoop/stocks_nmaps
+hadoop fs -cat sqoop/stocks_nmaps/part-m-00001
+
+sqoop import --connect jdbc:mysql://ip-172-31-45-216.ec2.internal/training --table stocks -m 1 --target-dir /user/hirw/sqoop/stocks_terminated --fields-terminated-by '\t' --enclosed-by '"'
+
+hadoop fs -ls sqoop/stocks_terminated
+hadoop fs -cat sqoop/stocks_terminated/part-m-00000
+
+sqoop import --connect jdbc:mysql://ip-172-31-45-216.ec2.internal/training --table stocks --columns "symbol,name,trad_date,volume" where "id>5" -m 1 --target-dir /user/hirw/sqoop/stocks_selective
+
+hadoop fs -ls sqoop/stocks_selective
+hadoop fs -cat sqoop/stocks_selective/part-m-00000

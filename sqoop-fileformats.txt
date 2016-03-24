@@ -1,0 +1,46 @@
+### Apache  sqoop - file formats ###
+
+
+## IMPORT WITH $CONDITIONS##
+
+--Data boundry using a different column
+sqoop import --connect jdbc:mysql://ip-172-31-45-216.ec2.internal/training --table stocks --split-by volume --target-dir /user/hirw/sqoop/stocks_conds
+
+hadoop fs -ls sqoop/stocks_cond
+
+--custom query import with $CONDITIONS
+sqoop import --connect jdbc:mysql://ip-172-31-45-216.ec2.internal/training --query 'select a.id, a.name, a.trade_date, a.voulme, b.dividend_amount from stocks a INNER JOIN dividends b 
+ON a.symbol=b.symbol where a.id>2 and $CONDITIONS' --split-by a.volume --target-dir /user/hirw/sqoop/stocks_joins_conds
+
+
+
+hadoop fs -ls /user/hirw/sqoop/stocks_join_conds
+hadoop fs -cat /user/hirw/sqoop/stocks_join_conds/part-m-00000
+hadoop fs -cat /user/hirw/sqoop/stocks_join_conds/part-m-00001
+hadoop fs -cat /user/hirw/sqoop/stocks_join_conds/part-m-00002
+
+## COMPRESSION  ##
+
+
+sqoop import --connect jdbc:mysql://ip-172-31-45-216.ec2.internal/training --table stocks --compress -m 2 --target-dir /user/hirw/sqoop/stocks_comp
+
+hadoop fs -ls /user/hirw/sqoop/stocks_join_comp
+hadoop fs -cat /user/hirw/sqoop/stocks_join_comp/part-m-00000
+
+
+## SEQUENCE FILE ##
+
+sqoop import --connect jdbc:mysql://ip-172-31-45-216.ec2.internal/training --table stocks --as-sequencefile -m 2 --target-dir /user/hirw/sqoop/stocks_seq
+
+
+hadoop fs -ls /user/hirw/sqoop/stocks_seq
+hadoop fs -cat /user/hirw/sqoop/stocks_seq/part-m-00000
+
+
+## AVRO ##
+
+sqoop import --connect jdbc:mysql://ip-172-31-45-216.ec2.internal/training --table stocks --as-avrodatafile -m 2 --target-dir /user/hirw/sqoop/stocks_avro
+
+
+hadoop fs -ls /user/hirw/sqoop/stocks_avro
+hadoop fs -cat /user/hirw/sqoop/stocks_avro/part-m-00000.avro
