@@ -1,0 +1,1627 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.10">
+  <diagram id="LzdK5Xz1N0MYValHKCmC" name="Page-1">
+    <mxGraphModel dx="1282" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="JU-gpy_u1CNlxYZL2XeS-1">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="139" y="20" width="168" height="88" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="JU-gpy_u1CNlxYZL2XeS-2">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="20" y="396" width="198" height="88" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="JU-gpy_u1CNlxYZL2XeS-3">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="124" y="208" width="198" height="88" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="JU-gpy_u1CNlxYZL2XeS-4">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="258" y="396" width="168" height="88" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="JU-gpy_u1CNlxYZL2XeS-5" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" parent="1" source="JU-gpy_u1CNlxYZL2XeS-1" target="JU-gpy_u1CNlxYZL2XeS-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170.33333333333334" y="120" />
+              <mxPoint x="84" y="158" />
+              <mxPoint x="84" y="346" />
+              <mxPoint x="72" y="384" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JU-gpy_u1CNlxYZL2XeS-6" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" parent="1" source="JU-gpy_u1CNlxYZL2XeS-1" target="JU-gpy_u1CNlxYZL2XeS-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="223" y="122" />
+              <mxPoint x="223" y="196" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JU-gpy_u1CNlxYZL2XeS-7" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" parent="1" source="JU-gpy_u1CNlxYZL2XeS-1" target="JU-gpy_u1CNlxYZL2XeS-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="275.66666666666663" y="120" />
+              <mxPoint x="362" y="158" />
+              <mxPoint x="362" y="346" />
+              <mxPoint x="381.5" y="384" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JU-gpy_u1CNlxYZL2XeS-8" value="" style="curved=1;fontSize=11;" parent="1" source="JU-gpy_u1CNlxYZL2XeS-3" target="JU-gpy_u1CNlxYZL2XeS-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="176" y="308" />
+              <mxPoint x="166" y="384" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JU-gpy_u1CNlxYZL2XeS-9" value="" style="curved=1;fontSize=11;" parent="1" source="JU-gpy_u1CNlxYZL2XeS-3" target="JU-gpy_u1CNlxYZL2XeS-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="308" />
+              <mxPoint x="302.5" y="384" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="Ethics" position="CFO" location="Office 1" application="" email="me@example.com" placeholders="1" link="https://www.draw.io" id="JU-gpy_u1CNlxYZL2XeS-18">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="20" y="510" width="140" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="datalake" position="Brand Manager" location="Office 2" application="Ethics" email="me@example.com" placeholders="1" link="https://www.draw.io" id="JU-gpy_u1CNlxYZL2XeS-19">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="140" y="640" width="190" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="Prime" position="System Admin" location="Office 3" application="Ethics" email="me@example.com" placeholders="1" link="https://www.draw.io" id="JU-gpy_u1CNlxYZL2XeS-20">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="140" y="770" width="190" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="FCCM" position="HR Director" location="Office 4" application="Ethics" email="me@example.com" placeholders="1" link="https://www.draw.io" id="JU-gpy_u1CNlxYZL2XeS-21">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="140" y="900" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="##" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-22">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="1020" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Example CSV import. Use ## for comments and # for configuration. Paste CSV below." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-23">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="1150" width="610" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## The following names are reserved and should not be used (or ignored):" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-24">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="1280" width="530" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## id" position=" tooltip" location=" link and label (see below)" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-25">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="1410" width="140" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="##" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-26">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="1530" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-27">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="1660" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Node label with placeholders and HTML." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-28">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="1790" width="350" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Default is &#39;%name_of_first_column%&#39;." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-29">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="1920" width="340" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-30">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="2050" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# label: %source%&lt;br&gt;&lt;i style=color:gray;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=mailto:%email%&gt;Email&lt;/a&gt;" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-31">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="2170" width="210" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-32">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="2330" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Node style (placeholders are replaced once)." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-33">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="2460" width="380" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Default is the current style for nodes." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-34">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="2590" width="330" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-35">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="2720" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# style: label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-36">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="2840" width="720" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-37">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="2970" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Parent style for nodes with child nodes (placeholders are replaced once)." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-38">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="3100" width="540" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-39">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="3230" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# parentstyle: swimlane;whiteSpace=wrap;html=1;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-40">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="3360" width="970" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-41">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="3480" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Style to be used for objects not in the CSV. If this is - then such objects are ignored" position="" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-42">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="3610" width="600" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## else they are created using this as their style" position=" eg. whiteSpace=wrap;html=1;" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-43">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="3740" width="380" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-44">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="3870" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# unknownStyle: -" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-45">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="4000" width="210" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-46">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="4120" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Optional column name that contains a reference to a named style in styles." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-47">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="4250" width="550" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Default is the current style for nodes." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-48">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="4380" width="330" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-49">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="4510" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# stylename: -" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-50">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="4640" width="190" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-51">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="4760" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## JSON for named styles of the form {name: style" position=" name: style} where style is a cell style with" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-52">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="4890" width="390" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## placeholders that are replaced once." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-53">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="5020" width="330" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-54">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="5150" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# styles: -" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-55">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="5280" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-56">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="5400" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## JSON for variables in styles of the form {name: value" position=" name: value} where name is a string" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-57">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="5530" width="420" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## that will replace a placeholder in a style." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-58">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="5660" width="350" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-59">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="5790" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# vars: -" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-60">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="5920" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-61">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="6040" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Optional column name that contains a reference to a named label in labels." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-62">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="6170" width="550" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Default is the current label." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-63">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="6300" width="280" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-64">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="6430" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# labelname: -" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-65">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="6560" width="190" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-66">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="6680" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## JSON for named labels of the form {name: label" position=" name: label} where label is a cell label with" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-67">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="6810" width="390" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## placeholders." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-68">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="6940" width="200" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-69">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="7070" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# labels: -" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-70">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="7200" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-71">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="7320" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Uses the given column name as the identity for cells (updates existing cells)." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-72">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="7450" width="560" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Default is no identity (empty value or -)." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-73">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="7580" width="350" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-74">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="7710" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# identity: -" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-75">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="7840" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-76">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="7960" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Uses the given column name as the parent reference for cells. Default is no parent (empty or -)." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-77">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="8090" width="660" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## The identity above is used for resolving the reference so it must be specified." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-78">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="8220" width="560" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-79">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="8350" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# parent: -" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-80">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="8480" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-81">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="8600" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Adds a prefix to the identity of cells to make sure they do not collide with existing cells (whose" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-82">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="8730" width="660" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## IDs are numbers from 0..n" position=" sometimes with a GUID prefix in the context of realtime collaboration)." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-83">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="8860" width="510" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Default is csvimport-." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-84">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="8990" width="240" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-85">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="9120" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# namespace: csvimport-" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-86">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="9240" width="250" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-87">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="9370" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Connections between rows (from: source colum" position=" to: target column)." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-88">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="9500" width="400" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Label" position=" style and invert are optional. Defaults are &#39;&#39;" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-89">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="9630" width="350" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## If placeholders are used in the style" position=" they are replaced with data from the source." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-90">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="9760" width="360" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## An optional placeholders can be set to target to use data from the target instead." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-91">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="9880" width="580" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## In addition to label" position=" an optional fromlabel and tolabel can be used to name the column" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-92">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="10010" width="480" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## that contains the text for the label in the edges source or target (invert ignored)." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-93">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="10140" width="580" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## In addition to those" position=" an optional source and targetlabel can be used to specify a label" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-94">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="10270" width="470" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## that contains placeholders referencing the respective columns in the source or target row." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-95">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="10400" width="640" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## The label is created in the form fromlabel + sourcelabel + label + tolabel + targetlabel." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-96">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="10520" width="610" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Additional labels can be added by using an optional labels array with entries of the" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-97">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="10650" width="590" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## form {label: string" position=" x: number" location=" dx: number" application=" dy: number} where" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-98">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="10780" width="220" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## x is from -1 to 1 along the edge" position=" y is orthogonal" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-99">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="10910" width="300" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## An optional placeholders with the string value source or target can be specified" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-100">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="11040" width="580" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## to replace placeholders in the additional label with data from the source or target." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-101">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="11160" width="590" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## The target column may contain a comma-separated list of values." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-102">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="11290" width="490" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Multiple connect entries are allowed." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-103">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="11420" width="330" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-104">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="11550" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# connect: {from: application" position=" to: source" location=" label: manages" application=" \" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-105">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="11680" width="270" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#          style: curved=1;endArrow=blockThin;endFill=1;fontSize=11;}" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-106">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="11800" width="460" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# connect: {from: refs" position=" to: id" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-107">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="11930" width="230" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-108">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="12060" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Node x-coordinate. Possible value is a column name. Default is empty. Layouts will" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-109">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="12190" width="600" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## override this value." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-110">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="12320" width="230" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-111">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="12440" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# left: " placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-112">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="12570" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-113">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="12700" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Node y-coordinate. Possible value is a column name. Default is empty. Layouts will" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-114">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="12830" width="600" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## override this value." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-115">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="12960" width="230" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-116">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="13080" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# top: " placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-117">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="13210" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-118">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="13340" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Node width. Possible value is a number (in px)" position=" auto or an @ sign followed by a column" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-119">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="13470" width="390" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## name that contains the value for the width. Default is auto." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-120">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="13600" width="450" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-121">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="13720" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# width: auto" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-122">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="13850" width="180" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-123">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="13980" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Node height. Possible value is a number (in px)" position=" auto or an @ sign followed by a column" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-124">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="14110" width="390" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## name that contains the value for the height. Default is auto." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-125">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="14240" width="460" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-126">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="14360" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# height: auto" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-127">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="14490" width="180" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-128">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="14620" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Collapsed state for vertices. Possible values are true or false. Default is false." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-129">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="14750" width="560" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-130">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="14880" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# collapsed: false" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-131">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="15000" width="210" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-132">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="15130" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Padding for autosize. Default is 0." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-133">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="15260" width="310" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-134">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="15390" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# padding: -12" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-135">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="15520" width="190" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-136">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="15640" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Comma-separated list of ignored columns for metadata. (These can be" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-137">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="15770" width="520" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## used for connections and styles but will not be added as metadata.)" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-138">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="15900" width="510" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-139">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="16030" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# ignore: id" position="image" location="stroke" application="refs" email="manager" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-140">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="16160" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-141">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="16280" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Column to be renamed to link attribute (used as link)." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-142">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="16410" width="430" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-143">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="16540" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# link: url" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-144">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="16670" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-145">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="16800" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Spacing between nodes. Default is 40." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-146">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="16920" width="340" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-147">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="17050" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# nodespacing: 40" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-148">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="17180" width="210" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-149">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="17310" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Spacing between levels of hierarchical layouts. Default is 100." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-150">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="17440" width="470" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-151">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="17560" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# levelspacing: 100" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-152">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="17690" width="210" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-153">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="17820" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Spacing between parallel edges. Default is 40. Use 0 to disable." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-154">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="17950" width="480" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-155">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="18080" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# edgespacing: 40" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-156">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="18200" width="210" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-157">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="18330" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Name or JSON of layout. Possible values are auto" position=" none" location=" horizontaltree" application="" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-158">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="18460" width="410" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## verticalflow" position=" horizontalflow" location=" circle" application=" orgchart or a JSON string as used in" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-159">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="18590" width="190" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Layout" position=" Apply. Default is auto." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-160">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="18720" width="230" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-161">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="18840" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# layout: auto" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-162">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="18970" width="180" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-163">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="19100" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## ---- CSV below this line. First line are column names. ----" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-164">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="19230" width="440" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="source" position="position" location="location" application="application" email="email" placeholders="1" link="url" id="JU-gpy_u1CNlxYZL2XeS-165">
+          <mxCell style="label;image=image;whiteSpace=wrap;html=1;rounded=1;fillColor=fill;strokeColor=stroke;" parent="1" vertex="1">
+            <mxGeometry x="20" y="19360" width="150" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="Ethics" position="CFO" location="Office 1" application="" email="me@example.com" placeholders="1" link="https://www.draw.io" id="JU-gpy_u1CNlxYZL2XeS-166">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="20" y="19480" width="140" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="datalake" position="Brand Manager" location="Office 2" application="Ethics" email="me@example.com" placeholders="1" link="https://www.draw.io" id="JU-gpy_u1CNlxYZL2XeS-167">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="130" y="19620" width="190" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="Prime" position="System Admin" location="Office 3" application="Ethics" email="me@example.com" placeholders="1" link="https://www.draw.io" id="JU-gpy_u1CNlxYZL2XeS-168">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="140" y="19740" width="190" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="FCCM" position="HR Director" location="Office 4" application="Ethics" email="me@example.com" placeholders="1" link="https://www.draw.io" id="JU-gpy_u1CNlxYZL2XeS-169">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="130" y="19870" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="##" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-170">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="20000" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Example CSV import. Use ## for comments and # for configuration. Paste CSV below." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-171">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="20120" width="610" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## The following names are reserved and should not be used (or ignored):" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-172">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="20250" width="530" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## id" position=" tooltip" location=" link and label (see below)" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-173">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="20380" width="140" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="##" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-174">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="20510" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-175">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="20640" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Node label with placeholders and HTML." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-176">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="20760" width="350" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Default is &#39;%name_of_first_column%&#39;." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-177">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="20890" width="340" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-178">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="21020" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# label: %source%&lt;br&gt;&lt;i style=color:gray;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=mailto:%email%&gt;Email&lt;/a&gt;" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-179">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="21150" width="210" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-180">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="21310" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Node style (placeholders are replaced once)." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-181">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="21430" width="380" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Default is the current style for nodes." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-182">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="21560" width="330" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-183">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="21690" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# style: label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-184">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="21820" width="720" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-185">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="21950" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Parent style for nodes with child nodes (placeholders are replaced once)." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-186">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="22070" width="540" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-187">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="22200" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# parentstyle: swimlane;whiteSpace=wrap;html=1;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-188">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="22330" width="970" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-189">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="22460" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Style to be used for objects not in the CSV. If this is - then such objects are ignored" position="" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-190">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="22590" width="600" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## else they are created using this as their style" position=" eg. whiteSpace=wrap;html=1;" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-191">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="22710" width="380" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-192">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="22840" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# unknownStyle: -" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-193">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="22970" width="210" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-194">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="23100" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Optional column name that contains a reference to a named style in styles." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-195">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="23230" width="550" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Default is the current style for nodes." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-196">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="23350" width="330" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-197">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="23480" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# stylename: -" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-198">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="23610" width="190" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-199">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="23740" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## JSON for named styles of the form {name: style" position=" name: style} where style is a cell style with" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-200">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="23870" width="390" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## placeholders that are replaced once." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-201">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="23990" width="330" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-202">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="24120" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# styles: -" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-203">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="24250" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-204">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="24380" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## JSON for variables in styles of the form {name: value" position=" name: value} where name is a string" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-205">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="24510" width="420" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## that will replace a placeholder in a style." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-206">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="24630" width="350" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-207">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="24760" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# vars: -" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-208">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="24890" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-209">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="25020" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Optional column name that contains a reference to a named label in labels." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-210">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="25150" width="550" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Default is the current label." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-211">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="25270" width="280" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-212">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="25400" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# labelname: -" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-213">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="25530" width="190" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-214">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="25660" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## JSON for named labels of the form {name: label" position=" name: label} where label is a cell label with" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-215">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="25790" width="390" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## placeholders." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-216">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="25910" width="200" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-217">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="26040" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# labels: -" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-218">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="26170" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-219">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="26300" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Uses the given column name as the identity for cells (updates existing cells)." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-220">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="26430" width="560" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Default is no identity (empty value or -)." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-221">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="26550" width="350" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-222">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="26680" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# identity: -" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-223">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="26810" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-224">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="26940" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Uses the given column name as the parent reference for cells. Default is no parent (empty or -)." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-225">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="27070" width="660" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## The identity above is used for resolving the reference so it must be specified." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-226">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="27190" width="560" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-227">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="27320" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# parent: -" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-228">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="27450" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-229">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="27580" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Adds a prefix to the identity of cells to make sure they do not collide with existing cells (whose" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-230">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="27710" width="660" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## IDs are numbers from 0..n" position=" sometimes with a GUID prefix in the context of realtime collaboration)." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-231">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="27830" width="510" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Default is csvimport-." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-232">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="27960" width="240" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-233">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="28090" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# namespace: csvimport-" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-234">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="28220" width="250" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-235">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="28350" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Connections between rows (from: source colum" position=" to: target column)." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-236">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="28470" width="400" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Label" position=" style and invert are optional. Defaults are &#39;&#39;" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-237">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="28600" width="350" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## If placeholders are used in the style" position=" they are replaced with data from the source." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-238">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="28730" width="360" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## An optional placeholders can be set to target to use data from the target instead." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-239">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="28860" width="580" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## In addition to label" position=" an optional fromlabel and tolabel can be used to name the column" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-240">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="28990" width="480" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## that contains the text for the label in the edges source or target (invert ignored)." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-241">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="29110" width="580" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## In addition to those" position=" an optional source and targetlabel can be used to specify a label" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-242">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="29240" width="470" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## that contains placeholders referencing the respective columns in the source or target row." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-243">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="29370" width="640" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## The label is created in the form fromlabel + sourcelabel + label + tolabel + targetlabel." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-244">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="29500" width="610" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Additional labels can be added by using an optional labels array with entries of the" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-245">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="29630" width="590" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## form {label: string" position=" x: number" location=" dx: number" application=" dy: number} where" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-246">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="29750" width="220" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## x is from -1 to 1 along the edge" position=" y is orthogonal" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-247">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="29880" width="300" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## An optional placeholders with the string value source or target can be specified" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-248">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="30010" width="580" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## to replace placeholders in the additional label with data from the source or target." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-249">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="30140" width="590" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## The target column may contain a comma-separated list of values." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-250">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="30270" width="490" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Multiple connect entries are allowed." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-251">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="30390" width="330" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-252">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="30520" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# connect: {from: application" position=" to: source" location=" label: manages" application=" \" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-253">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="30650" width="270" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#          style: curved=1;endArrow=blockThin;endFill=1;fontSize=11;}" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-254">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="30780" width="460" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# connect: {from: refs" position=" to: id" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-255">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="30910" width="230" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-256">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="31030" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Node x-coordinate. Possible value is a column name. Default is empty. Layouts will" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-257">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="31160" width="600" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## override this value." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-258">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="31290" width="230" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-259">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="31420" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# left: " placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-260">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="31550" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-261">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="31670" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Node y-coordinate. Possible value is a column name. Default is empty. Layouts will" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-262">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="31800" width="600" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## override this value." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-263">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="31930" width="230" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-264">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="32060" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# top: " placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-265">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="32190" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-266">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="32310" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Node width. Possible value is a number (in px)" position=" auto or an @ sign followed by a column" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-267">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="32440" width="390" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## name that contains the value for the width. Default is auto." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-268">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="32570" width="450" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-269">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="32700" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# width: auto" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-270">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="32830" width="180" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-271">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="32950" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Node height. Possible value is a number (in px)" position=" auto or an @ sign followed by a column" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-272">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="33080" width="390" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## name that contains the value for the height. Default is auto." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-273">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="33210" width="460" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-274">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="33340" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# height: auto" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-275">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="33470" width="180" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-276">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="33590" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Collapsed state for vertices. Possible values are true or false. Default is false." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-277">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="33720" width="560" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-278">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="33850" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# collapsed: false" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-279">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="33980" width="210" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-280">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="34110" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Padding for autosize. Default is 0." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-281">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="34230" width="310" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-282">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="34360" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# padding: -12" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-283">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="34490" width="190" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-284">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="34620" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Comma-separated list of ignored columns for metadata. (These can be" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-285">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="34750" width="520" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## used for connections and styles but will not be added as metadata.)" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-286">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="34870" width="510" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-287">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="35000" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# ignore: id" position="image" location="stroke" application="refs" email="manager" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-288">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="35130" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-289">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="35260" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Column to be renamed to link attribute (used as link)." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-290">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="35390" width="430" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-291">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="35510" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# link: url" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-292">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="35640" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-293">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="35770" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Spacing between nodes. Default is 40." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-294">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="35900" width="340" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-295">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="36030" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# nodespacing: 40" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-296">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="36150" width="210" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-297">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="36280" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Spacing between levels of hierarchical layouts. Default is 100." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-298">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="36410" width="470" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-299">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="36540" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# levelspacing: 100" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-300">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="36670" width="210" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-301">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="36790" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Spacing between parallel edges. Default is 40. Use 0 to disable." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-302">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="36920" width="480" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-303">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="37050" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# edgespacing: 40" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-304">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="37180" width="210" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-305">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="37310" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Name or JSON of layout. Possible values are auto" position=" none" location=" horizontaltree" application="" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-306">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="37430" width="410" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## verticalflow" position=" horizontalflow" location=" circle" application=" orgchart or a JSON string as used in" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-307">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="37560" width="190" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## Layout" position=" Apply. Default is auto." placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-308">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="37690" width="230" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-309">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="37820" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="# layout: auto" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-310">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="37950" width="180" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="#" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-311">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="38070" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="## ---- CSV below this line. First line are column names. ----" placeholders="1" id="JU-gpy_u1CNlxYZL2XeS-312">
+          <mxCell style="label;image=%image%;whiteSpace=wrap;html=1;rounded=1;fillColor=%fill%;strokeColor=%stroke%;" parent="1" vertex="1">
+            <mxGeometry x="20" y="38200" width="440" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="source" position="position" location="location" application="application" email="email" placeholders="1" link="url" id="JU-gpy_u1CNlxYZL2XeS-313">
+          <mxCell style="label;image=image;whiteSpace=wrap;html=1;rounded=1;fillColor=fill;strokeColor=stroke;" parent="1" vertex="1">
+            <mxGeometry x="20" y="38330" width="150" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="Ethics" position="CFO" location="Office 1" application="" email="me@example.com" placeholders="1" link="https://www.draw.io" id="JU-gpy_u1CNlxYZL2XeS-314">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="150" y="24600" width="140" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="datalake" position="Brand Manager" location="Office 2" application="Ethics" email="me@example.com" placeholders="1" link="https://www.draw.io" id="JU-gpy_u1CNlxYZL2XeS-315">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="140" y="24720" width="190" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="Prime" position="System Admin" location="Office 3" application="Ethics" email="me@example.com" placeholders="1" link="https://www.draw.io" id="JU-gpy_u1CNlxYZL2XeS-316">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="210" y="25270" width="190" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="FCCM" position="HR Director" location="Office 4" application="Ethics" email="me@example.com" placeholders="1" link="https://www.draw.io" id="JU-gpy_u1CNlxYZL2XeS-317">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="20" y="25250" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%source%&lt;br&gt;&lt;i style=&quot;color:gray;&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" source="HR" position="HR Director" location="Office 4" application="Ethics" email="me@example.com" placeholders="1" link="https://www.draw.io" id="JU-gpy_u1CNlxYZL2XeS-318">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="140" y="25110" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="JU-gpy_u1CNlxYZL2XeS-319" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" parent="1" source="JU-gpy_u1CNlxYZL2XeS-314" target="JU-gpy_u1CNlxYZL2XeS-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JU-gpy_u1CNlxYZL2XeS-320" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" parent="1" source="JU-gpy_u1CNlxYZL2XeS-314" target="JU-gpy_u1CNlxYZL2XeS-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JU-gpy_u1CNlxYZL2XeS-321" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" parent="1" source="JU-gpy_u1CNlxYZL2XeS-314" target="JU-gpy_u1CNlxYZL2XeS-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JU-gpy_u1CNlxYZL2XeS-322" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" parent="1" source="JU-gpy_u1CNlxYZL2XeS-314" target="JU-gpy_u1CNlxYZL2XeS-167" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JU-gpy_u1CNlxYZL2XeS-323" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" parent="1" source="JU-gpy_u1CNlxYZL2XeS-314" target="JU-gpy_u1CNlxYZL2XeS-168" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JU-gpy_u1CNlxYZL2XeS-324" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" parent="1" source="JU-gpy_u1CNlxYZL2XeS-314" target="JU-gpy_u1CNlxYZL2XeS-169" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JU-gpy_u1CNlxYZL2XeS-325" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" parent="1" source="JU-gpy_u1CNlxYZL2XeS-314" target="JU-gpy_u1CNlxYZL2XeS-315" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JU-gpy_u1CNlxYZL2XeS-326" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" parent="1" source="JU-gpy_u1CNlxYZL2XeS-314" target="JU-gpy_u1CNlxYZL2XeS-316" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JU-gpy_u1CNlxYZL2XeS-327" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" parent="1" source="JU-gpy_u1CNlxYZL2XeS-314" target="JU-gpy_u1CNlxYZL2XeS-317" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JU-gpy_u1CNlxYZL2XeS-328" value="manages" style="curved=1;endArrow=blockThin;endFill=1;fontSize=11;" parent="1" source="JU-gpy_u1CNlxYZL2XeS-314" target="JU-gpy_u1CNlxYZL2XeS-318" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JU-gpy_u1CNlxYZL2XeS-329" value="" style="curved=1;fontSize=11;" parent="1" source="JU-gpy_u1CNlxYZL2XeS-20" target="JU-gpy_u1CNlxYZL2XeS-315" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JU-gpy_u1CNlxYZL2XeS-330" value="" style="curved=1;fontSize=11;" parent="1" source="JU-gpy_u1CNlxYZL2XeS-20" target="JU-gpy_u1CNlxYZL2XeS-318" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JU-gpy_u1CNlxYZL2XeS-331" value="" style="curved=1;fontSize=11;" parent="1" source="JU-gpy_u1CNlxYZL2XeS-168" target="JU-gpy_u1CNlxYZL2XeS-315" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JU-gpy_u1CNlxYZL2XeS-332" value="" style="curved=1;fontSize=11;" parent="1" source="JU-gpy_u1CNlxYZL2XeS-168" target="JU-gpy_u1CNlxYZL2XeS-318" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JU-gpy_u1CNlxYZL2XeS-333" value="" style="curved=1;fontSize=11;" parent="1" source="JU-gpy_u1CNlxYZL2XeS-316" target="JU-gpy_u1CNlxYZL2XeS-315" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JU-gpy_u1CNlxYZL2XeS-334" value="" style="curved=1;fontSize=11;" parent="1" source="JU-gpy_u1CNlxYZL2XeS-316" target="JU-gpy_u1CNlxYZL2XeS-318" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
